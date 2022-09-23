@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,400i,700,700i');
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700');
+@import url('https://fonts.googleapis.com/css?family=Monteserrat:300,300,500,700');
 
 /*RESET CSS BEGIN*/
 
@@ -566,8 +566,8 @@ body.female-bg div.questions div.male-bg {
 
 .mobile-menu-icon {
     background: url('../images/icon-menu.svg') no-repeat 0 0;
-    width: 30px;
-    height: 30px;
+    width: 10px;
+    height: 10px;
     position: absolute;
     background-size: 30px 30px;
     top: 0;
@@ -608,7 +608,7 @@ body.no_blur .quiz-loader {
 section.quiz .step:before {
     right: auto;
     left: 0;
-    border-left: 10px solid white;
+    border-left: 03px solid white;
 }
 
 section.quiz .intro {
@@ -617,8 +617,8 @@ section.quiz .intro {
 }
 
 h4 {
-		font-family: 'Roboto Condensed', sans-serif;
-    font-size: 41px;
+		font-family: 'Montserrat', sans-serif;
+    font-size: 31px;
     line-height: 39px;
     color: #3a3a3a;
     text-align: center;
@@ -642,7 +642,7 @@ div.intro {
 }
 
 div.intro div.icon {
-    margin-left: 20px;
+    margin-left: 10px;
 }
 
 div.intro div.icon.gplus {
